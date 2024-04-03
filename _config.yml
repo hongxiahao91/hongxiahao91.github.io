@@ -6,32 +6,32 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhiwei He"
+title                    : "Hongkun Hao"
 description              : ""
-repository               : "zwhe99/zwhe99.github.io"
+repository               : "hongkunhao/hongkunhao.github.ioo"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  "G-4H7LBGMWCK" # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      :  "G-N2GQPEMS1N" # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  "RslOoyqinmFBojLAwv3ld49aMQK078LnxZJcFbzotOY" # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification :  "" # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Zhiwei He"
-  zh_name           : "何志威"
+  name             : "Hongkun Hao"
+  zh_name           : "郝宏坤"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "PhD Student @ SJTU"
+  bio              : "Master Student @ SJTU"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SL-AdukAAAAJ&hl=en&oi=sra"
-  email            : zwhe.cs@sjtu.edu.cn
-  email2           : hezw.tkcw@gmail.com
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=a3UulbMAAAAJ&hl=zh-CN"
+  email            : haohongkun@sjtu.edu.cn
+  email2           : haohongkun@gmail.com
+  researchgate     : "https://www.researchgate.net/profile/Hongkun-Hao" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -39,13 +39,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "zwhe99"
+  github           : "hongkunhao"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "hongkun-hao-372090172" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
@@ -53,7 +53,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "zwhe99"
+  twitter          : # "zwhe99"
   vine             :
   weibo            :
   xing             :

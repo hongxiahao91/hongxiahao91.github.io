@@ -1,0 +1,8 @@
+@misc{hao2023boosting,
+      title={Boosting Large Language Model for Speech Synthesis: An Empirical Study}, 
+      author={Hongkun Hao and Long Zhou and Shujie Liu and Jinyu Li and Shujie Hu and Rui Wang and Furu Wei},
+      year={2023},
+      eprint={2401.00246},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}

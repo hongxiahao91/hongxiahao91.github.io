@@ -39,8 +39,7 @@ I am a second-year master student (2022 - present) at [Department of Computer Sc
 \* denotes co-first authors
 - [Rethinking Translation Memory Augmented Neural Machine Translation](https://aclanthology.org/2023.findings-acl.162/)
 
-
-**Hongkun Hao**, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi, Rui Wang.
+  **Hongkun Hao**, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi, Rui Wang.
 
 ``ACL 2023 Findings`` \| <a href='https://github.com/HongkunHao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button>
 
@@ -52,29 +51,26 @@ I am a second-year master student (2022 - present) at [Department of Computer Sc
 \* denotes co-first authors
 - [Boosting Large Language Model for Speech Synthesis: An Empirical Study](https://arxiv.org/abs/2401.00246.pdf)
   
+  **Hongkun Hao**, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei
 
-**Hongkun Hao**, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei
+  <button class="copy-btn" data-bib-file="hao2023boosting">BIB</button>
 
-<button class="copy-btn" data-bib-file="hao2023boosting">BIB</button>
 
 - [Improving Open-Ended Text Generation via Adaptive Decoding](https://arxiv.org/abs/2402.18223)
   
-
-Wenhong Zhu, **Hongkun Hao**, Zhiwei He, Yiming Ai, Rui Wang
+  Wenhong Zhu, **Hongkun Hao**, Zhiwei He, Yiming Ai, Rui Wang
 
 
 - [Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
 
+  Zhiwei He\*, Binglin Zhou\*, **Hongkun Hao**, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
 
-Zhiwei He\*, Binglin Zhou\*, **Hongkun Hao**, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
-
-<a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a>
+  <a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a>
 
 
 - [Is Cognition and Action Consistent or Not: Investigating Large Language Model's Personality](https://arxiv.org/abs/2402.14679)
 
-
-Yiming Ai, Zhiwei He, Ziyin Zhang, Wenhong Zhu, **Hongkun Hao**, Kai Yu, Lingjun Chen, Rui Wang
+  Yiming Ai, Zhiwei He, Ziyin Zhang, Wenhong Zhu, **Hongkun Hao**, Kai Yu, Lingjun Chen, Rui Wang
 
 
 

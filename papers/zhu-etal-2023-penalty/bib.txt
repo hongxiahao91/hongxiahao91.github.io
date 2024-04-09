@@ -1,0 +1,17 @@
+@inproceedings{zhu-etal-2023-penalty,
+    title = "Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation",
+    author = "Zhu, Wenhong  and
+      Hao, Hongkun  and
+      Wang, Rui",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.emnlp-main.78",
+    doi = "10.18653/v1/2023.emnlp-main.78",
+    pages = "1218--1228",
+}

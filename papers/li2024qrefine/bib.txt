@@ -1,0 +1,8 @@
+@misc{li2024qrefine,
+      title={Q-Refine: A Perceptual Quality Refiner for AI-Generated Image}, 
+      author={Chunyi Li and Haoning Wu and Zicheng Zhang and Hongkun Hao and Kaiwei Zhang and Lei Bai and Xiaohong Liu and Xiongkuo Min and Weisi Lin and Guangtao Zhai},
+      year={2024},
+      eprint={2401.01117},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

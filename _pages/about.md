@@ -39,10 +39,30 @@ I am a second-year master student (2022 - present) at [Department of Computer Sc
 \* denotes co-first authors
 - [Rethinking Translation Memory Augmented Neural Machine Translation](https://aclanthology.org/2023.findings-acl.162/)
 
-  **Hongkun Hao**, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi, Rui Wang.
+  **Hongkun Hao**, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi, Rui Wang
 
-``ACL 2023 Findings`` \| <a href='https://github.com/HongkunHao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button>
+  ``ACL 2023 Findings`` \| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button>
 
+
+- [Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation](https://aclanthology.org/2023.emnlp-main.78/) 
+
+  Wenhong Zhu, **Hongkun Hao**, Rui Wang
+
+  ``EMNLP 2023`` \| <a href='https://github.com/hongkunhao/penalty_decoding'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu-etal-2023-penalty">BIB</button>
+
+
+- [Q-Refine: A Perceptual Quality Refiner for AI-Generated Image](https://arxiv.org/abs/2401.01117.pdf)
+  
+  Chunyi Li, Haoning Wu, Zicheng Zhang, **Hongkun Hao**, Kaiwei Zhang, Lei Bai, Xiaohong Liu, Xiongkuo Min, Weisi Lin, Guangtao Zhai
+  
+  ``ICME 2024`` \| <a href='https://github.com/Q-Future/Q-Refine'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="li2024qrefine">BIB</button>
+
+
+- [CLEAN-EVAL: Clean Evaluation on Contaminated Large Language Models](https://arxiv.org/abs/2311.09154)
+  
+  Wenhong Zhu, **Hongkun Hao**, Zhiwei He, Yunze Song, Yumeng Zhang, Hanxu Hu, Yiran Wei, Rui Wang, Hongyuan Lu
+  
+  ``NAACL 2024 Findings`` \| <a href='https://github.com/hongkunhao'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu2024cleaneval">BIB</button>
 
 
 

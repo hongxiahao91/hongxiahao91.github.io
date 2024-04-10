@@ -17,17 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-I am a second-year master student (2022 - present) at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/). I am fortunate to be advised by [Prof. Rui Wang](https://wangruinlp.github.io/). Before that, I received the bachelor degree in Computer Science and Engineering from Shanghai Jiao Tong University (SJTU) in 2022.
+I am currently a second-year master student (2022 - present) at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of [Prof. Rui Wang](https://wangruinlp.github.io/). Before that, I received my bachelor degree in Computer Science and Engineering from Shanghai Jiao Tong University (SJTU) in 2022.
+
+I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2023 with Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/?from=https://research.microsoft.com/en-us/people/shujliu/&type=exact) and [Long Zhou](https://long-zhou.github.io/)) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) (2021-2023 with Dr. [Lemao Liu](https://lemaoliu.github.io/homepage/)). Now I am a machine learning engineer intern at [ByteDance](https://www.bytedance.com/en/), working on multimodal large language models.
 
 
+# 🔬 Research Interest
 
-# 🔬 Research
+**Large Language Model**: Multimodal Large Language Models, Speech Large Language Model, Video Understanding Large Language Model, etc.
 
-**Large Language Models**
-
-**Neural Machine Translation**
-
-
+**Natural Language Processing**: Neural Machine Translation, Open-Ended Text Generation, etc.
 
 
 # 🔥 News
@@ -105,11 +104,19 @@ I am a second-year master student (2022 - present) at [Department of Computer Sc
 
 
 
-# 💻 Internships
-- *2024.01 - present*: [ByteDance], Shanghai, China.
-- *2023.04 - 2023.11*: [Microsoft Research Asia], Beijing, China.
+# 📖 Education
+- *2022.09 - 2025.03 (expected)*, Master of Science in Computer Science and Engineering, Shanghai Jiao Tong University.
+- *2018.09 - 2022.06*, Bachelor of Engineering in Computer Science and Engineering, Shanghai Jiao Tong University.
+
+
+# 💻 Internship
+- *2024.01 - present*: [ByteDance](https://www.bytedance.com/en/), Shanghai, China.
+- *2023.04 - 2023.11*: [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China.
 - *2022.12 - 2023.01*: [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), Shenzhen, China.
 
+# 📖 Service
+- Reviewer: ACL Rolling Review (2024), ICME (2024), EMNLP (2023), NLPCC (2022, 2023), CCL (2022, 2023)
+- Teaching Assistant: Internet-based Information Extraction Technologies (CS 3307 at SJTU, Fall 2022)
 
 
 # 🎖 Honors and Awards

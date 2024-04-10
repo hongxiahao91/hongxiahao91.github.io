@@ -30,7 +30,14 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 
 
 # 🔥 News
-- *2024.03*: 🎉🎉 One paper about evaluating large language models is accepted by [NAACL 2024](https://2024.naacl.org/).
+- *2024.03*: 🎉🎉 One paper about evaluating large language models (CLEAN-EVAL) is accepted by [NAACL 2024 Findings](https://2024.naacl.org/).
+- *2024.03*: 🎉🎉 Q-Refine is accepted by [ICME 2024](https://2024.ieeeicme.org/).
+- *2023.01*: I join ByteDance as a machine learning engineer intern.
+- *2023.10*: 🎉🎉 Penalty Decoding is accepted by [EMNLP 2023](https://2023.emnlp.org/).
+- *2023.05*: 🎉🎉 One paper about translation memory augmented NMT is accepted by [ACL 2023 Findings](https://2023.aclweb.org/).
+- *2023.04*: I join Microsoft Research Asia (MSRA), Natural Language Computing group as a research intern.
+- *2022.06*: I graduate from Shanghai Jiao Tong University and receive the Bachelor of Engineering in Computer Science and Engineering (with honor of Shanghai Jiao Tong University Outstanding Graduates).
+- *2021.12*: I join Tencent AI Lab, Natural Language Processing center as a research intern.
 
 
 

@@ -7,16 +7,16 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#preprints"
+    url: "/#publications"
+
+  - title: "Education"
+    url: "/#-education"
+
+  - title: "Internships"
+    url: "/#-internship"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
 
   - title: "CV"
     url: "cv/CV_HongkunHao_en.pdf"

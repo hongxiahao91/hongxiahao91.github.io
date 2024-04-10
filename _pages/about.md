@@ -80,6 +80,8 @@ I am a second-year master student (2022 - present) at [Department of Computer Sc
   
   Wenhong Zhu, **Hongkun Hao**, Zhiwei He, Yiming Ai, Rui Wang
 
+  <a href='https://github.com/hongkunhao/adaptive_decoding'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu2024improving">BIB</button>
+
 
 - [Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
 
@@ -91,6 +93,15 @@ I am a second-year master student (2022 - present) at [Department of Computer Sc
 - [Is Cognition and Action Consistent or Not: Investigating Large Language Model's Personality](https://arxiv.org/abs/2402.14679)
 
   Yiming Ai, Zhiwei He, Ziyin Zhang, Wenhong Zhu, **Hongkun Hao**, Kai Yu, Lingjun Chen, Rui Wang
+
+  <button class="copy-btn" data-bib-file="ai2024cognition">BIB</button>
+
+
+- [WavLLM: Towards Robust and Adaptive Speech Large Language Model](https://arxiv.org/abs/2404.00656)
+
+  Shujie Hu, Long Zhou, Shujie Liu, Sanyuan Chen, **Hongkun Hao**, Jing Pan, Xunying Liu, Jinyu Li, Sunit Sivasankaran, Linquan Liu, Furu Wei
+
+  <button class="copy-btn" data-bib-file="hu2024wavllm">BIB</button>
 
 
 
@@ -115,5 +126,5 @@ I am a second-year master student (2022 - present) at [Department of Computer Sc
 
 
 
-<p align="center" style="padding-top: 40px;"><a href="https://clustrmaps.com/site/1bz3w"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=zQTIbvMowu5vzFhApfVkwyYZZQbVqasooVPCbiwEIlo&cl=ffffff" /></a></p>
+<p align="center" style="padding-top: 40px;"><a href='https://clustrmaps.com/site/1bz3w'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=tt&d=zQTIbvMowu5vzFhApfVkwyYZZQbVqasooVPCbiwEIlo'/></a></p>
 

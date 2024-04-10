@@ -1,0 +1,8 @@
+@misc{ai2024cognition,
+      title={Is Cognition and Action Consistent or Not: Investigating Large Language Model's Personality}, 
+      author={Yiming Ai and Zhiwei He and Ziyin Zhang and Wenhong Zhu and Hongkun Hao and Kai Yu and Lingjun Chen and Rui Wang},
+      year={2024},
+      eprint={2402.14679},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}

@@ -1,0 +1,8 @@
+@misc{hu2024wavllm,
+      title={WavLLM: Towards Robust and Adaptive Speech Large Language Model}, 
+      author={Shujie Hu and Long Zhou and Shujie Liu and Sanyuan Chen and Hongkun Hao and Jing Pan and Xunying Liu and Jinyu Li and Sunit Sivasankaran and Linquan Liu and Furu Wei},
+      year={2024},
+      eprint={2404.00656},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}

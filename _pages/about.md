@@ -140,5 +140,5 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 
 
 
-<p align="center" style="padding-top: 40px;"><a href='https://clustrmaps.com/site/1bz3w'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=450&t=tt&d=zQTIbvMowu5vzFhApfVkwyYZZQbVqasooVPCbiwEIlo&co=2d78ad&ct=ffffff'/></a></p>
+<p align="center" style="padding-top: 40px;"><a href='https://clustrmaps.com/site/1bz3w'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=350&t=tt&d=zQTIbvMowu5vzFhApfVkwyYZZQbVqasooVPCbiwEIlo'/></a></p>
 

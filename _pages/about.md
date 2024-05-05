@@ -30,6 +30,7 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 
 
 # 🔥 News
+- *2024.05*: 🎉🎉 Adaptive Decoding is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - *2024.03*: 🎉🎉 One paper about evaluating large language models (CLEAN-EVAL) is accepted by [NAACL 2024 Findings](https://2024.naacl.org/).
 - *2024.03*: 🎉🎉 Q-Refine is accepted by [ICME 2024](https://2024.ieeeicme.org/).
 - *2023.01*: I join ByteDance as a machine learning engineer intern.
@@ -71,6 +72,11 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
   ``NAACL 2024 Findings`` \| <a href='https://github.com/hongkunhao'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu2024cleaneval">BIB</button>
 
 
+- [Improving Open-Ended Text Generation via Adaptive Decoding](https://arxiv.org/abs/2402.18223)
+  
+  Wenhong Zhu, **Hongkun Hao**, Zhiwei He, Yiming Ai, Rui Wang
+
+  ``ICML 2024`` \| <a href='https://github.com/hongkunhao/adaptive_decoding'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu2024improving">BIB</button>
 
 <span class='anchor' id='preprints'></span>
 # 🖨️ Preprints
@@ -80,13 +86,6 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
   **Hongkun Hao**, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei
 
   <button class="copy-btn" data-bib-file="hao2023boosting">BIB</button>
-
-
-- [Improving Open-Ended Text Generation via Adaptive Decoding](https://arxiv.org/abs/2402.18223)
-  
-  Wenhong Zhu, **Hongkun Hao**, Zhiwei He, Yiming Ai, Rui Wang
-
-  <a href='https://github.com/hongkunhao/adaptive_decoding'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu2024improving">BIB</button>
 
 
 - [Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)

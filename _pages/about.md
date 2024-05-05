@@ -109,6 +109,12 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
   <button class="copy-btn" data-bib-file="hu2024wavllm">BIB</button>
 
 
+- [G-Refine: A General Quality Refiner for Text-to-Image Generation](https://arxiv.org/abs/2404.18343)
+
+  Chunyi Li, Haoning Wu, **Hongkun Hao**, Zicheng Zhang, Tengchaun Kou, Chaofeng Chen, Lei Bai, Xiaohong Liu, Weisi Lin, Guangtao Zhai
+
+  <button class="copy-btn" data-bib-file="li2024grefine">BIB</button>
+
 
 # 📖 Education
 - *2022.09 - 2025.03 (expected)*, Master of Science in Computer Science and Engineering, Shanghai Jiao Tong University.

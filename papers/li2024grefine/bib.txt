@@ -1,0 +1,8 @@
+@misc{li2024grefine,
+      title={G-Refine: A General Quality Refiner for Text-to-Image Generation}, 
+      author={Chunyi Li and Haoning Wu and Hongkun Hao and Zicheng Zhang and Tengchaun Kou and Chaofeng Chen and Lei Bai and Xiaohong Liu and Weisi Lin and Guangtao Zhai},
+      year={2024},
+      eprint={2404.18343},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM}
+}

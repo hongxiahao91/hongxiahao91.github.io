@@ -30,6 +30,7 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 
 
 # 🔥 News
+- *2024.05*: 🎉🎉 One paper about watermark for large language models is accepted by [ACL 2024](https://2024.aclweb.org/).
 - *2024.05*: 🎉🎉 Adaptive Decoding is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - *2024.03*: 🎉🎉 One paper about evaluating large language models (CLEAN-EVAL) is accepted by [NAACL 2024 Findings](https://2024.naacl.org/).
 - *2024.03*: 🎉🎉 Q-Refine is accepted by [ICME 2024](https://2024.ieeeicme.org/).
@@ -78,6 +79,14 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 
   ``ICML 2024`` \| <a href='https://github.com/hongkunhao/adaptive_decoding'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu2024improving">BIB</button>
 
+
+- [Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
+
+  Zhiwei He\*, Binglin Zhou\*, **Hongkun Hao**, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
+
+  ``ACL 2024`` \| <a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a>
+
+
 <span class='anchor' id='preprints'></span>
 # 🖨️ Preprints
 \* denotes co-first authors
@@ -86,13 +95,6 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
   **Hongkun Hao**, Long Zhou, Shujie Liu, Jinyu Li, Shujie Hu, Rui Wang, Furu Wei
 
   <button class="copy-btn" data-bib-file="hao2023boosting">BIB</button>
-
-
-- [Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
-
-  Zhiwei He\*, Binglin Zhou\*, **Hongkun Hao**, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
-
-  <a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a>
 
 
 - [Is Cognition and Action Consistent or Not: Investigating Large Language Model's Personality](https://arxiv.org/abs/2402.14679)
@@ -107,6 +109,13 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
   Shujie Hu, Long Zhou, Shujie Liu, Sanyuan Chen, **Hongkun Hao**, Jing Pan, Xunying Liu, Jinyu Li, Sunit Sivasankaran, Linquan Liu, Furu Wei
 
   <button class="copy-btn" data-bib-file="hu2024wavllm">BIB</button>
+
+
+- [Multiple-Choice Questions are Efficient and Robust LLM Evaluators](https://arxiv.org/abs/2405.11966)
+
+  Ziyin Zhang, Lizhen Xu, Zhaokun Jiang, **Hongkun Hao**, Rui Wang
+
+  <button class="copy-btn" data-bib-file="zhang2024multiplechoice">BIB</button>
 
 
 - [G-Refine: A General Quality Refiner for Text-to-Image Generation](https://arxiv.org/abs/2404.18343)

@@ -30,6 +30,7 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 
 
 # 🔥 News
+- *2024.07*: 🎉🎉 One paper about quality refiner for text-to-image generation is accepted by [ACM MM 2024](https://2024.acmmm.org/).
 - *2024.05*: 🎉🎉 One paper about watermark for large language models is accepted by [ACL 2024](https://2024.aclweb.org/).
 - *2024.05*: 🎉🎉 Adaptive Decoding is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - *2024.03*: 🎉🎉 One paper about evaluating large language models (CLEAN-EVAL) is accepted by [NAACL 2024 Findings](https://2024.naacl.org/).
@@ -87,6 +88,13 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
   ``ACL 2024`` \| <a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a>
 
 
+- [G-Refine: A General Quality Refiner for Text-to-Image Generation](https://arxiv.org/abs/2404.18343)
+
+  Chunyi Li, Haoning Wu, **Hongkun Hao**, Zicheng Zhang, Tengchaun Kou, Chaofeng Chen, Lei Bai, Xiaohong Liu, Weisi Lin, Guangtao Zhai
+
+  ``ACM MM 2024`` \| <button class="copy-btn" data-bib-file="li2024grefine">BIB</button>
+
+
 <span class='anchor' id='preprints'></span>
 # 🖨️ Preprints
 \* denotes co-first authors
@@ -118,13 +126,6 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
   <button class="copy-btn" data-bib-file="zhang2024multiplechoice">BIB</button>
 
 
-- [G-Refine: A General Quality Refiner for Text-to-Image Generation](https://arxiv.org/abs/2404.18343)
-
-  Chunyi Li, Haoning Wu, **Hongkun Hao**, Zicheng Zhang, Tengchaun Kou, Chaofeng Chen, Lei Bai, Xiaohong Liu, Weisi Lin, Guangtao Zhai
-
-  <button class="copy-btn" data-bib-file="li2024grefine">BIB</button>
-
-
 # 📖 Education
 - *2022.09 - 2025.03 (expected)*, Master of Science in Computer Science and Engineering, Shanghai Jiao Tong University.
 - *2018.09 - 2022.06*, Bachelor of Engineering in Computer Science and Engineering, Shanghai Jiao Tong University.
@@ -136,7 +137,7 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 - *2022.12 - 2023.01*: [Tencent AI Lab](https://ai.tencent.com/ailab/en/index), Shenzhen, China.
 
 # 📖 Service
-- Reviewer: ACL Rolling Review (2024), ICME (2024), EMNLP (2023), NLPCC (2022, 2023), CCL (2022, 2023)
+- Reviewer: ACL Rolling Review (2024), ICME (2024), EMNLP (2023), NLPCC (2022, 2023, 2024), CCL (2022, 2023)
 - Teaching Assistant: Internet-based Information Extraction Technologies (CS 3307 at SJTU, Fall 2022)
 
 

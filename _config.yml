@@ -24,14 +24,14 @@ author:
   name             : "Hongxia Hao"
   zh_name           : "郝红霞"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Master Student @ SJTU"
+  bio              : "Senior Researcher @ Microsoft AI for Science"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=a3UulbMAAAAJ&hl=en"
-  email            : haohongkun@sjtu.edu.cn
-  email2           : haohongkun@gmail.com
-  researchgate     : "https://www.researchgate.net/profile/Hongkun-Hao" # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=9Mugj9oAAAAJ"
+  email            : hongxiahao@microsoft.com
+  email2           : hongxiahao19@gmail.com
+  researchgate     : #"https://www.researchgate.net/profile/Hongkun-Hao" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -39,13 +39,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hongkunhao"
+  github           : "hongxiahao91"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hongkun-hao-372090172" # e.g., "linkedin username"
+  linkedin         : "hongxiahao91" # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

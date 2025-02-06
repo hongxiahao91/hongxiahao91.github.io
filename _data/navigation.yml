@@ -18,5 +18,5 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "CV"
-    url: "cv/CV_HongkunHao_en.pdf"
+  #- title: "CV"
+  #  url: "cv/CV_HongkunHao_en.pdf"

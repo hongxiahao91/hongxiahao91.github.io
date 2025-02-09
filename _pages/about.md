@@ -27,7 +27,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.01*: 🎉🎉 Our paper about generative model for inorganic materials design is published on [Nature] (https://www.nature.com/articles/s41586-025-08628-5).
+- *2025.01*: 🎉🎉 Our paper about generative model for inorganic materials design is published on [Nature](https://www.nature.com/articles/s41586-025-08628-5).
 
 
 
@@ -40,8 +40,8 @@ redirect_from:
 
   ``Nature`` \| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button>
 
-
-%%- [Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation](https://aclanthology.org/2023.emnlp-main.78/) 
+<!--
+- [Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation](https://aclanthology.org/2023.emnlp-main.78/) 
 
   Wenhong Zhu, **Hongkun Hao**, Rui Wang
 
@@ -50,11 +50,12 @@ redirect_from:
 
 
 
-##- [G-Refine: A General Quality Refiner for Text-to-Image Generation](https://arxiv.org/abs/2404.18343)
+- [G-Refine: A General Quality Refiner for Text-to-Image Generation](https://arxiv.org/abs/2404.18343)
 
   Chunyi Li, Haoning Wu, **Hongkun Hao**, Zicheng Zhang, Tengchaun Kou, Chaofeng Chen, Lei Bai, Xiaohong Liu, Weisi Lin, Guangtao Zhai
 
   ``ACM MM 2024`` \| <button class="copy-btn" data-bib-file="li2024grefine">BIB</button>
+-->
 
 <!--
 

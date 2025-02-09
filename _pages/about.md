@@ -33,12 +33,18 @@ redirect_from:
 
 
 # 📝 Publications 
-\* denotes co-first authors
+\* denotes co-first authors; \# denotes corresponding authors
 - [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5)
 
   Claudio Zeni, Robert Pinsler, Daniel Zügner, Andrew Fowler, Matthew Horton, Xiang Fu, Zilong Wang, Aliaksandra Shysheya, Jonathan Crabbé, Shoko Ueda, Roberto Sordillo, Lixin Sun, Jake Smith, Bichlien Nguyen, Hannes Schulz, Sarah Lewis, Chin-Wei Huang, Ziheng Lu, Yichi Zhou, Han Yang, **Hongxia Hao**, Jielan Li, Chunlei Yang, Wenjie Li, Ryota Tomioka, Tian Xie
 
   *``Nature``* <!--\| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
+
+- [Mattersim: A deep learning atomistic model across elements, temperatures and pressures](https://arxiv.org/abs/2405.04967)
+
+  Han Yang, Chenxi Hu, Yichi Zhou, Xixian Liu, Yu Shi, Jielan Li, Guanzhi Li, Zekun Chen, Shuizhou Chen, Claudio Zeni, Matthew Horton, Robert Pinsler, Andrew Fowler, Daniel Zügner, Tian Xie, Jake Smith, Lixin Sun, Qian Wang, Lingyu Kong, Chang Liu, Hongxia Hao#, Ziheng Lu
+
+  <!-- *``Nature``* \| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
 
 <!--
 - [Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation](https://aclanthology.org/2023.emnlp-main.78/) 

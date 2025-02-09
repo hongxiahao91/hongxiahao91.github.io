@@ -17,83 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About me
-I am currently a second-year master student (2022 - present) at [Department of Computer Science and Engineering](https://www.cs.sjtu.edu.cn/) at [Shanghai Jiao Tong University (SJTU)](https://en.sjtu.edu.cn/), under the supervision of [Prof. Rui Wang](https://wangruinlp.github.io/). Before that, I received my bachelor degree in Computer Science and Engineering from Shanghai Jiao Tong University (SJTU) in 2022.
-
-I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/) (2023 with Dr. [Shujie Liu](https://www.microsoft.com/en-us/research/people/shujliu/?from=https://research.microsoft.com/en-us/people/shujliu/&type=exact) and [Long Zhou](https://long-zhou.github.io/)) and [Tencent AI Lab](https://ai.tencent.com/ailab/en/index) (2021-2023 with Dr. [Lemao Liu](https://lemaoliu.github.io/homepage/)). Now I am a machine learning engineer intern at [ByteDance](https://www.bytedance.com/en/), working on multimodal large language models.
-
+ Currently, I am a Senior Researcher at [Microsoft Research](https://www.microsoft.com/en-us/research/about-microsoft-research/), working on [AI for Science](https://www.microsoft.com/en-us/research/lab/microsoft-research-ai-for-science/), with a focus on the intersection of AI with materials and chemistry. Before that, I earned my Ph.D. in computational chemistry from [Brown University](https://www.brown.edu/) in 2019 under the supervision of [Prof. Brenda Rubenstein](https://chemistry.brown.edu/people/brenda-m-rubenstein), where I focused on developing quantum Monte Carlo algorithms for strongly correlated systems. From 2019 to 2022, I conducted postdoctoral research at [UC Berkeley](https://www.berkeley.edu/) under the guidance of [Prof. Teresa Head-Gordon](https://thglab.berkeley.edu/), specializing in interfacial chemistry, microdroplet chemistry, and complex systems. During this time, I pioneered high-precision simulation methods for large-scale reactive systems and theoretical understanding of microdroplet chemistry. My current research interest explores AI-driven large-scale material simulation and design. To date, I have published over 20 papers in prestigious journals such as Nature, J. Am. Chem. Soc., Angew. Chem. Int. Ed., Nat. Mach. Intell., and Nat. Commun..
 
 # 🔬 Research Interest
 
-**Large Language Model**: Multimodal Large Language Models, Speech Large Language Model, Video Understanding Large Language Model, etc.
+**AI for Materials**: AI-driven material simulation, AI-driven material design, multi-scale simulation, foundation model, etc.
 
-**Natural Language Processing**: Neural Machine Translation, Open-Ended Text Generation, etc.
+**AI for Science**: large language model, foundataion model, etc.
 
 
 # 🔥 News
-- *2024.07*: 🎉🎉 One paper about quality refiner for text-to-image generation is accepted by [ACM MM 2024](https://2024.acmmm.org/).
-- *2024.05*: 🎉🎉 One paper about watermark for large language models is accepted by [ACL 2024](https://2024.aclweb.org/).
-- *2024.05*: 🎉🎉 Adaptive Decoding is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
-- *2024.03*: 🎉🎉 One paper about evaluating large language models (CLEAN-EVAL) is accepted by [NAACL 2024 Findings](https://2024.naacl.org/).
-- *2024.03*: 🎉🎉 Q-Refine is accepted by [ICME 2024](https://2024.ieeeicme.org/).
-- *2023.01*: I join ByteDance as a machine learning engineer intern.
-- *2023.10*: 🎉🎉 Penalty Decoding is accepted by [EMNLP 2023](https://2023.emnlp.org/).
-- *2023.05*: 🎉🎉 One paper about translation memory augmented NMT is accepted by [ACL 2023 Findings](https://2023.aclweb.org/).
-- *2023.04*: I join Microsoft Research Asia (MSRA), Natural Language Computing group as a research intern.
-- *2022.06*: I graduate from Shanghai Jiao Tong University and receive the Bachelor of Engineering in Computer Science and Engineering (with honor of Shanghai Jiao Tong University Outstanding Graduates).
-- *2021.12*: I join Tencent AI Lab, Natural Language Processing center as a research intern.
+- *2025.01*: 🎉🎉 Our paper about generative model for inorganic materials design is published on [Nature] (https://www.nature.com/articles/s41586-025-08628-5).
+
 
 
 
 # 📝 Publications 
 \* denotes co-first authors
-- [Rethinking Translation Memory Augmented Neural Machine Translation](https://aclanthology.org/2023.findings-acl.162/)
+- [A generative model for inorganic materials design](https://www.nature.com/articles/s41586-025-08628-5)
 
-  **Hongkun Hao**, Guoping Huang, Lemao Liu, Zhirui Zhang, Shuming Shi, Rui Wang
+  Claudio Zeni, Robert Pinsler, Daniel Zügner, Andrew Fowler, Matthew Horton, Xiang Fu, Zilong Wang, Aliaksandra Shysheya, Jonathan Crabbé, Shoko Ueda, Roberto Sordillo, Lixin Sun, Jake Smith, Bichlien Nguyen, Hannes Schulz, Sarah Lewis, Chin-Wei Huang, Ziheng Lu, Yichi Zhou, Han Yang, **Hongxia Hao**, Jielan Li, Chunlei Yang, Wenjie Li, Ryota Tomioka, Tian Xie
 
-  ``ACL 2023 Findings`` \| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button>
+  ``Nature`` \| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button>
 
 
-- [Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation](https://aclanthology.org/2023.emnlp-main.78/) 
+%%- [Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation](https://aclanthology.org/2023.emnlp-main.78/) 
 
   Wenhong Zhu, **Hongkun Hao**, Rui Wang
 
   ``EMNLP 2023`` \| <a href='https://github.com/hongkunhao/penalty_decoding'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu-etal-2023-penalty">BIB</button>
 
 
-- [Q-Refine: A Perceptual Quality Refiner for AI-Generated Image](https://arxiv.org/abs/2401.01117.pdf)
-  
-  Chunyi Li, Haoning Wu, Zicheng Zhang, **Hongkun Hao**, Kaiwei Zhang, Lei Bai, Xiaohong Liu, Xiongkuo Min, Weisi Lin, Guangtao Zhai
-  
-  ``ICME 2024`` \| <a href='https://github.com/Q-Future/Q-Refine'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="li2024qrefine">BIB</button>
 
 
-- [CLEAN-EVAL: Clean Evaluation on Contaminated Large Language Models](https://arxiv.org/abs/2311.09154)
-  
-  Wenhong Zhu, **Hongkun Hao**, Zhiwei He, Yunze Song, Yumeng Zhang, Hanxu Hu, Yiran Wei, Rui Wang, Hongyuan Lu
-  
-  ``NAACL 2024 Findings`` \| <a href='https://github.com/hongkunhao'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu2024cleaneval">BIB</button>
-
-
-- [Improving Open-Ended Text Generation via Adaptive Decoding](https://arxiv.org/abs/2402.18223)
-  
-  Wenhong Zhu, **Hongkun Hao**, Zhiwei He, Yiming Ai, Rui Wang
-
-  ``ICML 2024`` \| <a href='https://github.com/hongkunhao/adaptive_decoding'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="zhu2024improving">BIB</button>
-
-
-- [Can Watermarks Survive Translation? On the Cross-lingual Consistency of Text Watermark for Large Language Models](https://arxiv.org/abs/2402.14007)
-
-  Zhiwei He\*, Binglin Zhou\*, **Hongkun Hao**, Aiwei Liu, Xing Wang, Zhaopeng Tu, Zhuosheng Zhang, Rui Wang
-
-  ``ACL 2024`` \| <a href='https://github.com/zwhe99/X-SIR'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="he2024can">BIB</button> <a href='https://cross-lingual-watermark.github.io/'><button class="home-btn">HOME</button></a>
-
-
-- [G-Refine: A General Quality Refiner for Text-to-Image Generation](https://arxiv.org/abs/2404.18343)
+##- [G-Refine: A General Quality Refiner for Text-to-Image Generation](https://arxiv.org/abs/2404.18343)
 
   Chunyi Li, Haoning Wu, **Hongkun Hao**, Zicheng Zhang, Tengchaun Kou, Chaofeng Chen, Lei Bai, Xiaohong Liu, Weisi Lin, Guangtao Zhai
 
   ``ACM MM 2024`` \| <button class="copy-btn" data-bib-file="li2024grefine">BIB</button>
 
+<!--
 
 <span class='anchor' id='preprints'></span>
 # 🖨️ Preprints
@@ -125,12 +88,13 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 
   <button class="copy-btn" data-bib-file="zhang2024multiplechoice">BIB</button>
 
+-->
 
 # 📖 Education
-- *2022.09 - 2025.03 (expected)*, Master of Science in Computer Science and Engineering, Shanghai Jiao Tong University.
-- *2018.09 - 2022.06*, Bachelor of Engineering in Computer Science and Engineering, Shanghai Jiao Tong University.
+- *2014.08 - 2019.08*, Ph.D. in Chemistry, Brown University.
+- *2010.07 - 2014.07*, B.S. in Chemistry, Jilin University.
 
-
+<!--
 # 💻 Internship
 - *2024.01 - present*: [ByteDance](https://www.bytedance.com/en/), Shanghai, China.
 - *2023.04 - 2023.11*: [Microsoft Research Asia](https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/), Beijing, China.
@@ -152,7 +116,7 @@ I interned at [Microsoft Research Asia](https://www.microsoft.com/en-us/research
 - *2023.06*: Rethinking Translation Memory Augmented Neural Machine Translation, AIS \| [\[slide\]](talks/AIS/AIS-Spot-3.pdf)
 
 
-
+-->
 
 
 <p align="center" style="padding-top: 40px;"><a href='https://clustrmaps.com/site/1bz3w'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=300&t=tt&d=zQTIbvMowu5vzFhApfVkwyYZZQbVqasooVPCbiwEIlo'/></a></p>

@@ -58,13 +58,13 @@ redirect_from:
 
   *``Wiley Interdisciplinary Reviews: Computational Molecular Science``* <!--\| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
 
-  - [Highly altered state of proton transport in acid pools in charged reverse micelles](https://pubs.acs.org/doi/full/10.1021/jacs.2c11331)
+- [Highly altered state of proton transport in acid pools in charged reverse micelles](https://pubs.acs.org/doi/full/10.1021/jacs.2c11331)
 
   **Hongxia Hao**, Ellen M Adams, Sarah Funke, Gerhard Schwaab, Martina Havenith, Teresa Head-Gordon
 
   *``Journal of the American Chemical Society``* <!--\| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
 
-  - [Can electric fields drive chemistry for an aqueous microdroplet?](https://www.nature.com/articles/s41467-021-27941-x)
+- [Can electric fields drive chemistry for an aqueous microdroplet?](https://www.nature.com/articles/s41467-021-27941-x)
 
   **Hongxia Hao**, Itai Leven, Teresa Head-Gordon
 

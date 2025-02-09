@@ -12,11 +12,11 @@ main:
   - title: "Education"
     url: "/#-education"
 
-  - title: "Internships"
-    url: "/#-internship"
+  #- title: "Internships"
+  #  url: "/#-internship"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  #- title: "Honors and Awards"
+  #  url: "/#-honors-and-awards"
 
   #- title: "CV"
   #  url: "cv/CV_HongkunHao_en.pdf"

@@ -44,7 +44,7 @@ redirect_from:
 
   Han Yang, Chenxi Hu, Yichi Zhou, Xixian Liu, Yu Shi, Jielan Li, Guanzhi Li, Zekun Chen, Shuizhou Chen, Claudio Zeni, Matthew Horton, Robert Pinsler, Andrew Fowler, Daniel Zügner, Tian Xie, Jake Smith, Lixin Sun, Qian Wang, Lingyu Kong, Chang Liu, **Hongxia Hao**#, Ziheng Lu
 
-  <!-- *``Nature``* \| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
+  *``arxiv``* \| <a href='https://github.com/microsoft/mattersim'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="mattersim">BIB</button> 
 
 - [Predicting equilibrium distributions for molecular systems with deep learning](https://www.nature.com/articles/s42256-024-00837-3)
 

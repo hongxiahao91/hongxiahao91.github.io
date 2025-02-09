@@ -1,0 +1,6 @@
+@article{yang2024mattersim,
+  title={Mattersim: A deep learning atomistic model across elements, temperatures and pressures},
+  author={Yang, Han and Hu, Chenxi and Zhou, Yichi and Liu, Xixian and Shi, Yu and Li, Jielan and Li, Guanzhi and Chen, Zekun and Chen, Shuizhou and Zeni, Claudio and others},
+  journal={arXiv preprint arXiv:2405.04967},
+  year={2024}
+}

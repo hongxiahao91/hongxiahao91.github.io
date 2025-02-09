@@ -42,15 +42,34 @@ redirect_from:
 
 - [Mattersim: A deep learning atomistic model across elements, temperatures and pressures](https://arxiv.org/abs/2405.04967)
 
-  Han Yang, Chenxi Hu, Yichi Zhou, Xixian Liu, Yu Shi, Jielan Li, Guanzhi Li, Zekun Chen, Shuizhou Chen, Claudio Zeni, Matthew Horton, Robert Pinsler, Andrew Fowler, Daniel Zügner, Tian Xie, Jake Smith, Lixin Sun, Qian Wang, Lingyu Kong, Chang Liu, Hongxia Hao#, Ziheng Lu
+  Han Yang, Chenxi Hu, Yichi Zhou, Xixian Liu, Yu Shi, Jielan Li, Guanzhi Li, Zekun Chen, Shuizhou Chen, Claudio Zeni, Matthew Horton, Robert Pinsler, Andrew Fowler, Daniel Zügner, Tian Xie, Jake Smith, Lixin Sun, Qian Wang, Lingyu Kong, Chang Liu, **Hongxia Hao**#, Ziheng Lu
 
   <!-- *``Nature``* \| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
 
 - [Predicting equilibrium distributions for molecular systems with deep learning](https://www.nature.com/articles/s42256-024-00837-3)
 
-  Shuxin Zheng, Jiyan He, Chang Liu, Yu Shi, Ziheng Lu, Weitao Feng, Fusong Ju, Jiaxi Wang, Jianwei Zhu, Yaosen Min, He Zhang, Shidi Tang, Hongxia Hao, Peiran Jin, Chi Chen, Frank Noé, Haiguang Liu, Tie-Yan Liu
+  Shuxin Zheng, Jiyan He, Chang Liu, Yu Shi, Ziheng Lu, Weitao Feng, Fusong Ju, Jiaxi Wang, Jianwei Zhu, Yaosen Min, He Zhang, Shidi Tang, **Hongxia Hao**, Peiran Jin, Chi Chen, Frank Noé, Haiguang Liu, Tie-Yan Liu
 
   *``Nature Machine Intelligence``* <!--\| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
+
+- [Chemical transformations and transport phenomena at interfaces](https://wires.onlinelibrary.wiley.com/doi/abs/10.1002/wcms.1639)
+
+  **Hongxia Hao**, Luis Ruiz Pestana, Jin Qian, Meili Liu, Qiang Xu, Teresa Head‐Gordon
+
+  *``Wiley Interdisciplinary Reviews: Computational Molecular Science``* <!--\| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
+
+  - [Highly altered state of proton transport in acid pools in charged reverse micelles](https://pubs.acs.org/doi/full/10.1021/jacs.2c11331)
+
+  **Hongxia Hao**, Ellen M Adams, Sarah Funke, Gerhard Schwaab, Martina Havenith, Teresa Head-Gordon
+
+  *``Journal of the American Chemical Society``* <!--\| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
+
+  - [Can electric fields drive chemistry for an aqueous microdroplet?](https://www.nature.com/articles/s41467-021-27941-x)
+
+  **Hongxia Hao**, Itai Leven, Teresa Head-Gordon
+
+  *``Nature communications``* <!--\| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
+
 
 <!--
 - [Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation](https://aclanthology.org/2023.emnlp-main.78/) 

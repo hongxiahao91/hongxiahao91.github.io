@@ -70,6 +70,11 @@ redirect_from:
 
   *``Nature communications``* <!--\| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
 
+- [Proton traffic jam: effect of nanoconfinement and acid concentration on proton hopping mechanism](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202108766)
+
+  Ellen M Adams, **Hongxia Hao***, Itai Leven, Maximilian Rüttermann, Hanna Wirtz, Martina Havenith, Teresa Head‐Gordon
+
+  *``Angewandte Chemie``* <!--\| <a href='https://github.com/hongkunhao/translation_memory_augmented_NMT'><button class="code-btn">CODE</button></a> <button class="copy-btn" data-bib-file="hao-etal-2023-rethinking">BIB</button> -->
 
 <!--
 - [Penalty Decoding: Well Suppress the Self-Reinforcement Effect in Open-Ended Text Generation](https://aclanthology.org/2023.emnlp-main.78/) 
